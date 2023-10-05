@@ -25,11 +25,15 @@ body {
   border-radius: 10px;
   display: flex;
   flex-direction: row;
-  max-width: 800px;
+  max-width: 600px;
   padding: 20px;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.title {
+  color:  hsl(234, 29%, 20%);
 }
